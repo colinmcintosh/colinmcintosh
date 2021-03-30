@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello!
 
 `WHOIS colinmcintosh`: Senior Software Engineer building platforms for infrastructure automation.
 
