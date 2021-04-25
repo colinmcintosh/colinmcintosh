@@ -17,7 +17,7 @@
 #### Previously:
  - 🏳‍🌈 **[Pride@Netflix](https://jobs.netflix.com/inclusion)** Lead
  - 💼 Automation Engineer for Networking @ **[SIG](https://sig.com/)**: high-speed trading network automation.
- - 💼 Service Engineering for Azure @ **Microsoft**: network state validation.
- - 💼 Proactive Services @ **IT Solutions**: end-user infrastructure validation.
+ - 💼 Service Engineering for [Azure](https://azure.microsoft.com/) @ **Microsoft**: network state validation.
+ - 💼 Proactive Services @ **[IT Solutions](https://www.itsolutions-inc.com/)**: end-user infrastructure validation.
  - ⚙ PHP, Javascript, CSS
  - 🎓 Drexel, LSCHS
