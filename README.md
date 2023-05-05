@@ -11,7 +11,7 @@
 #### Currently:
  - 💼 Infrastructure Platform for [Open Connect](https://openconnect.netflix.com/) @ **Netflix**
  - ⚙ Golang, Python, Docker, gRPC
- - 💻 Windows 10 & Ubuntu Linux
+ - 💻 Windows 11 & Ubuntu Linux
  - ✨ [gnmi-gateway: Improving network state and telemetry with gNMI and OpenConfig](https://github.com/openconfig/gnmi-gateway)
 
 #### Previously:
