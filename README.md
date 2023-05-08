@@ -8,6 +8,12 @@
  - 💬 He/him
  - 📶 W6BGP
 
+#### Microsites:
+ - 🥨[Philly Eats](https://philly-eats.colinmcintosh.com/)
+ - 🥑[SF Eats](https://sf-eats.colinmcintosh.com/)
+ - 🍕[SF Pizza](https://sf-pizza.cm.lol/)
+ - 🌦️[Weather Links](https://wx.cm.lol/)
+
 #### Currently:
  - 💼 Infrastructure Platform for [Open Connect](https://openconnect.netflix.com/) @ **Netflix**
  - ⚙ Golang, Python, Docker, gRPC
