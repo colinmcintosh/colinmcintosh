@@ -7,6 +7,7 @@
  - 📫 **[LinkedIn](https://www.linkedin.com/in/colinamcintosh/)** or see the sidebar ⬅
  - 💬 He/him
  - 📶 W6BGP
+ - 🔑 [B0BD 806E 5D45 F2FF](https://colinmcintosh.com/key.pgp)
 
 #### Microsites:
  - 🥨[Philly Eats](https://philly-eats.colinmcintosh.com/)
