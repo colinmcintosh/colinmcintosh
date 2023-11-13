@@ -14,6 +14,7 @@
  - 🥑[SF Eats](https://sf-eats.colinmcintosh.com/)
  - 🍕[SF Pizza](https://sf-pizza.cm.lol/)
  - 🌦️[Weather Links](https://wx.cm.lol/)
+ - 🏙️[San Francisco Skyline Webcam](https://skyline.cm.lol) (may not work on iOS devices due to Apple's lack of support for H.265)
 
 #### Currently:
  - 💼 Network Tools for [Open Connect](https://openconnect.netflix.com/) @ **Netflix**
