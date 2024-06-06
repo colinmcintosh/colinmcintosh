@@ -17,12 +17,13 @@
  - 🏙️[San Francisco Skyline Webcam](https://skyline.cm.lol) (may not work on iOS devices due to Apple's lack of support for H.265)
 
 #### Currently:
- - 💼 Network Tools for [Open Connect](https://openconnect.netflix.com/) @ **Netflix**
- - ⚙ Golang, Python, Docker, gRPC
+ - 💼 Starlink @ **SpaceX**
+ - ⚙ Golang, Python, Kubernetes, gRPC
  - 💻 Windows 11 & Ubuntu Linux
- - ✨ [gnmi-gateway: Improving network state and telemetry with gNMI and OpenConfig](https://github.com/openconfig/gnmi-gateway)
 
 #### Previously:
+ - ✨ [gnmi-gateway: Improving network state and telemetry with gNMI and OpenConfig](https://github.com/openconfig/gnmi-gateway)
+ - 💼 Network Tools for [Open Connect](https://openconnect.netflix.com/) @ **Netflix**
  - 🏳‍🌈 **[Pride@Netflix](https://jobs.netflix.com/inclusion)** Lead
  - 💼 Automation Engineer for Networking @ **[SIG](https://sig.com/)**: high-speed trading network automation.
  - 💼 Service Engineering for [Azure](https://azure.microsoft.com/) @ **Microsoft**: network state validation.
